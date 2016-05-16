@@ -1,5 +1,5 @@
 public class Phone {
-	public static void main (String[] args) {
+	public s main (String[] args) {
 
 		PhoneNumber mynumber = new PhoneNumber("800-GOFEDEX");
 		System.out.println("the number is: " + mynumber);
