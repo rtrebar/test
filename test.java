@@ -2,7 +2,7 @@ public class Phone {
 	public static void main (String[] args) {
 
 		PhoneNumber mynumber = new PhoneNumber("800-GOFEDEX");
-		System.out.println("the number is: " + mynumber)
+		System.out.println("the number is: " + mynumber);
 
 		PhoneNumber mynumber2 = new PhoneNumber("800-46FEDEX");
 		System.out.println("the number is: " + mynumber2);
